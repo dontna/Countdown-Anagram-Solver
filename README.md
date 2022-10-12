@@ -13,7 +13,7 @@ A realistic example would look like:
 
 The script will then tell you the largest word you can make with those letters. In the case above, the script tells me the biggest word would be 'agonies'.
 
-# Forking My Proje
+# Forking My Projects
 
 All of my projects you can fork and utilise the code however you want. You don't need to give me credit, but can do if you would like.
 
